@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="urlSkipper">https://i.pinimg.com/564x/5e/7d/e2/5e7de21dee7cfb731a8843b89a00b623.jpg</string>
+    <string name="urlKowalski">https://i.pinimg.com/564x/c7/9f/f8/c79ff8e620f767d68c8bce3f674cc9e2.jpg</string>
+    <string name="urlPrivate">https://i.pinimg.com/564x/7c/33/e3/7c33e3de8218293de9340683a04fc8ba.jpg</string>
+    <string name="urlRico">https://i.pinimg.com/564x/d9/75/6d/d9756df16c89006e2b935903ac1a6aa7.jpg</string>
+
+
+    <string name="fullDescSkipper">The leader of penguins</string>
+    <string name="fullDescKowalski">The brain of penguins</string>
+    <string name="fullDescPrivate">The rookie of penguins
+    </string>
+    <string name="fullDescRico">The loose cannon of the penguins</string>
+</resources>
